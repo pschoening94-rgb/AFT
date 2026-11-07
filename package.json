@@ -1,0 +1,20 @@
+{
+  "name": "twitchtb-samsung",
+  "appName": "TwitchTB",
+  "version": "2.1.2",
+  "description": "Twitch app with adblocker for TizenBrew",
+  "packageType": "mods",
+  "websiteURL": "https://hisense.tv.twitch.tv/",
+  "main": "dist/bundle.user.js",
+  "author": "Owen The Kid / Community Backup",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ]
+}
